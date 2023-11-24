@@ -1,0 +1,20 @@
+body {
+  background-color: grey;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+  font-family: Impact;
+}
+
+p {
+  font-family: Bradley Hand;
+  font-size: 20px;
+}
+#first{
+  color: yellow;
+  text-align: center;
+  font-family: cursive;
+  font-size: 20px;
+}
